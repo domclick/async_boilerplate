@@ -1,6 +1,6 @@
 # async_boilerplate
 
-[![License: MIT](https://img.shields.io/github/license/domclick/async_boilerplate)](https://github.com/domclick/async_boilerplate/blob/master/LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/licence-MIT-orange)](https://github.com/domclick/async_boilerplate/blob/master/LICENSE.md)
 ![](https://img.shields.io/badge/python-3.8-blue)
 
 Пример асинхронного веб-сервера на Sanic.
