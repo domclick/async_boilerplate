@@ -28,7 +28,7 @@ python-dateutil==2.8.1
 python-editor==1.0.4
 pytz==2020.4
 rfc3986==1.4.0
-sanic==19.12.2
+sanic==20.12.6
 sanic-openapi==0.6.2
 six==1.15.0
 sniffio==1.2.0
